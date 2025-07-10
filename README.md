@@ -61,21 +61,11 @@ How can we empower sales teams with clear, data-backed insights into regional pe
 
 ## 📈 Key Insights
 
-- **Seasonality**: Revenue peaks in May-June, lowest in January  
-- **Top SKUs**: Products 25 & 26 contribute ~25% of total sales  
-- **Channel**: Wholesale dominates in volume, Export leads in margin  
-- **Geography**: California leads in revenue; Northeast underperforms  
-- **Customer Segmentation**: Top clients drive disproportionate revenue; margin opportunities exist in $6–9M accounts
-
----
-
-## 💡 Recommendations
-
-- 🎯 **Seasonal Promotions**: Target April slump & boost January campaigns  
-- 🧪 **SKU Strategy**: Focus on top SKUs and eliminate underperformers  
-- 🔄 **Channel Optimization**: Push Export for margins, Wholesale for volume  
-- 🗺️ **Regional Expansion**: Replicate California model in Midwest & Northeast  
-- ⚠️ **Margin Monitoring**: Flag and evaluate orders below 80% margin
+- **Monthly Revenue Cycle**:Revenue stays stable between ≈ 23M -26.5M across 2014–2017, with no consistent seasonal spikes. Sharpest drop (≈$21.2M) occurs in early 2017, indicating a possible one-time disruption. 
+- **Channel Mix**: Wholesale: 54%. Distributors: 31%. Exports: 15% — opportunity to scale international presence.  
+- **Top Products (Revenue)**: Product 26:118M ; Product 25:110M; Product 13:78M. Mid -tier:68–75M; bottom performers: $52–57M.
+- **Profit Margins:**:Profit margins range broadly from ≈18% to ≈60%, with no strong correlation to unit price. Dense horizontal bands suggest standardized pricing strategies across tiers.
+- **Seasonal Volume:**: No strong monthly pattern, but slight volume uptick appears around May–June. Early 2017 dip (≈$21.2M) may require investigation.
 
 ---
 
@@ -83,18 +73,19 @@ How can we empower sales teams with clear, data-backed insights into regional pe
 
 | Page | Overview |
 |------|----------|
-| **1** | Performance Summary |
-| **2** | Customer Segmentation |
-| **3** | Revenue Scenarios |
+| **1** | Excutive Overview & trends  |
+| **2** |Product & Channel Performance |
+| **3** |Geographic & Customer Insights |
 
 > 📌 Built using **Power BI** for interactive, real-time insights.
 
 ---
+## 📌 Deliverables
 
-## ✅ Conclusion
-
-This end-to-end analysis reveals critical sales insights, enabling better strategic planning. The dashboard equips stakeholders to explore trends independently and adapt swiftly to market dynamics.
-
+- 📓 `EDA_Analysis.ipynb`: Full Python code with step-by-step EDA
+- 🖼️ Power BI Dashboard (3 Pages)
+- 📊 Project Presentation: `PPT - Regional Sales Analysis.pptx`
+  
 ---
 
 ## 📁 Tools Used
@@ -106,13 +97,9 @@ This end-to-end analysis reveals critical sales insights, enabling better strate
 
 ---
 
-## 🙌 Acknowledgements
+## ✅ Conclusion
 
-Thanks to the team for support and guidance throughout the project. Special mention to stakeholders and mentors who helped refine the approach and delivery.
+This end-to-end analysis reveals critical sales insights, enabling better strategic planning. The dashboard equips stakeholders to explore trends independently and adapt swiftly to market dynamics.
 
 ---
-
-## 📬 Contact
-
-For queries or collaboration, feel free to connect via [LinkedIn](#) or email at [your-email@example.com](mailto:your-email@example.com).
 
