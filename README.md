@@ -1,28 +1,29 @@
-# 📊 Regional Sales Analysis
+# Regional Sales Analysis
 
 A data-driven project that uncovers key insights from five years of sales data across U.S. regions. This project leverages exploratory data analysis (EDA) and an interactive Power BI dashboard to support strategic decision-making for marketing, sales, and operations teams.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
-Businesses face inconsistent revenue and profit performance across U.S. regions with limited visibility into:
+Analyze Acme Co.’s 2014–2018 sales data to identify key revenue and profit drivers across products, channels, and regions; uncover seasonal trends and outliers; and align performance against budgets. Use these insights to optimize pricing, promotions, and market expansion for sustainable growth and reduced concentration risk.
 
-- Seasonal sales swings
-- Top-performing SKUs
-- Channel profitability
+> **Objective**: Deliver actionable insights from Acme Co.’s 2014–2018 sales data to:
 
-> **Objective**: Identify growth levers and optimize sales strategy using 5 years of historical sales data.
-
+ - Identify top-performing products, channels, and regions driving revenue and profit
+ - Uncover seasonal trends and anomalies for optimized planning
+ - Spot pricing and margin risks from outlier transactions
+ - Inform pricing, promotion, and market-expansion strategies
+These findings will guide the design of a Power BI dashboard to support strategic decision-making and sustainable growth.
 ---
 
-## 🔍 Business Question
+## Business Question
 
 How can we empower sales teams with clear, data-backed insights into regional performance to identify high-growth opportunities and optimize resource allocation?
 
 ---
 
-## 🧭 Approach
+## Approach
 
 ### Phase 1 – Exploratory Data Analysis (EDA)
 - Cleaned and merged multiple unlinked tables: Sales, Products, Customers, Regions, States, and Budgets
@@ -36,18 +37,18 @@ How can we empower sales teams with clear, data-backed insights into regional pe
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
-1. 📥 Load & Explore Raw Data  
-2. 🧹 Data Cleaning & Preprocessing  
-3. 🛠️ Feature Engineering  
-4. 📊 Exploratory Data Analysis  
-5. 📌 Key Insights & Recommendations  
-6. 📈 Dashboard Design in Power BI  
+1.  Load & Explore Raw Data  
+2.  Data Cleaning & Preprocessing  
+3.  Feature Engineering  
+4.  Exploratory Data Analysis  
+5.  Key Insights & Recommendations  
+6.  Dashboard Design in Power BI  
 
 ---
 
-## 🗃️ Final Dataset Structure
+## Final Dataset Structure
 
 | Type        | Columns Included |
 |-------------|------------------|
@@ -59,7 +60,7 @@ How can we empower sales teams with clear, data-backed insights into regional pe
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - **Monthly Revenue Cycle**:Revenue stays stable between ≈ 23M -26.5M across 2014–2017, with no consistent seasonal spikes. Sharpest drop (≈$21.2M) occurs in early 2017, indicating a possible one-time disruption. 
 - **Channel Mix**: Wholesale: 54%. Distributors: 31%. Exports: 15% — opportunity to scale international presence.  
@@ -69,7 +70,7 @@ How can we empower sales teams with clear, data-backed insights into regional pe
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 | Page | Overview |
 |------|----------|
@@ -77,18 +78,18 @@ How can we empower sales teams with clear, data-backed insights into regional pe
 | **2** |Product & Channel Performance |
 | **3** |Geographic & Customer Insights |
 
-> 📌 Built using **Power BI** for interactive, real-time insights.
+>  Built using **Power BI** for interactive, real-time insights.
 
 ---
-## 📌 Deliverables
+##  Deliverables
 
-- 📓 `EDA_Analysis.ipynb`: Full Python code with step-by-step EDA
-- 🖼️ Power BI Dashboard (3 Pages)
-- 📊 Project Presentation: `PPT - Regional Sales Analysis.pptx`
+-  `EDA_Analysis.ipynb`: Full Python code with step-by-step EDA
+-  Power BI Dashboard (3 Pages)
+-  Project Presentation: `PPT - Regional Sales Analysis.pptx`
   
 ---
 
-## 📁 Tools Used
+##  Tools Used
 
 - **Python** – Data Cleaning & EDA  
 - **Pandas, Matplotlib, Seaborn** – Data Visualization  
@@ -97,7 +98,7 @@ How can we empower sales teams with clear, data-backed insights into regional pe
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This end-to-end analysis reveals critical sales insights, enabling better strategic planning. The dashboard equips stakeholders to explore trends independently and adapt swiftly to market dynamics.
 
